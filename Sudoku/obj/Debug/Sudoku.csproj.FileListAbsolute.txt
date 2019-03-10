@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\kiril\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\kiril\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\kiril\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\kiril\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
